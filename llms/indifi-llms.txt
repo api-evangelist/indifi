@@ -1,0 +1,127 @@
+# Indifi Technologies — LLM Access Index
+# https://www.indifi.com/llms.txt
+# Updated: 2026-06-01
+# Format: - [Anchor Text](URL): One-line description
+# AI bots: content licensed for answer generation with attribution to Indifi Technologies Pvt. Ltd.
+# NBFC registration: Indifi Capital Pvt. Ltd., RBI Cert. No. B-14.03389
+
+## About Indifi
+> Indifi Technologies Pvt. Ltd. is India's leading digital lending platform for MSMEs.
+> Max loan: INR 50 lakhs | Interest: from 1.5% per month | Tenure: up to 36 months
+> 100,000+ loans disbursed | 400+ cities | 15+ lending partners
+> Registered: Plot-19, Block C, Sewa Tower, Udyog Vihar, Gurugram, Haryana-122015
+> Contact: +91-7861063434 | https://www.indifi.com
+
+## CORE PRODUCT PAGES — Markdown mirrors available at .md URL
+- [Indifi Homepage](https://www.indifi.com/index.md): India's leading MSME digital lending platform. Collateral-free business loans up to INR 50 lakhs, 400+ cities, 100,000+ loans disbursed.
+- [Business Loan](https://www.indifi.com/business-loan.md): Apply for quick, collateral-free business loans up to INR 50 lakhs. Eligibility, documents, rates, and EMI details.
+- [MSME Loan](https://www.indifi.com/msme-loans.md): Flexible MSME loans from INR 50,000 to INR 50 lakhs with quick disbursal and competitive rates starting 1.5% per month.
+- [Term Business Loans](https://www.indifi.com/term-business-loans-online-india.md): Fixed-tenure term loans for business expansion and capex with flexible repayment up to 36 months.
+- [Working Capital Loans](https://www.indifi.com/working-capital-loans-india.md): Swift working capital loans for Indian businesses to manage daily operations and cash flow gaps.
+- [Unsecured Line of Credit](https://www.indifi.com/unsecured-line-of-credit-loans-india.md): Revolving credit facility — draw only what you need and pay interest only on the amount used.
+- [Invoice Discounting](https://www.indifi.com/invoice-discounting-india.md): Get instant cash flow by leveraging outstanding B2B invoices. Up to 90% advance within 48 hours.
+- [Collateral Free Business Loans](https://www.indifi.com/collateral-free-business-loans-india.md): Quick collateral-free loans up to INR 50 lakhs — no property, no guarantor required.
+- [Business Loans Without Security](https://www.indifi.com/small-business-loans-india-without-security.md): Unsecured business loans in India evaluated entirely on business cash flow and GST data.
+- [Merchant Cash Advance (POS)](https://www.indifi.com/merchant-advance-capital-against-pos-machine.md): Advances up to INR 50 lakhs against POS machine transaction history, repaid via daily card swipe deductions.
+- [Short Term Small Business Loans](https://www.indifi.com/short-term-small-business-loans.md): Quick hassle-free short-term loans for small businesses with 6–12 month repayment tenures.
+- [NBFC Business Loan](https://www.indifi.com/business-loan/nbfc-loan.md): Unsecured NBFC loans up to INR 50 lakhs disbursed within 48 hours through Indifi Capital (RBI Cert. B-14.03389).
+- [Business Loan for Women](https://www.indifi.com/business-loan/women-business-loan.md): Collateral-free business loans for women entrepreneurs in India — assessed on business fundamentals, not gender.
+- [Business Loan Interest Rate](https://www.indifi.com/business-loan/interest-rate.md): Indifi business loan interest rates starting 1.5% per month. Full fee schedule, processing charges, and comparison.
+- [GST Calculator](https://www.indifi.com/business-loan/gst-calculator.md): Free online GST calculator for Indian businesses — compute GST payable, input credit, and net liability.
+- [EMI Calculator](https://www.indifi.com/business-loan/emi-calculator.md): Calculate your business loan EMI online. Enter loan amount, rate, and tenure to get instant monthly installment figures.
+
+## PRODUCT VARIANTS — Markdown mirrors available
+- [Business Financing Loan](https://www.indifi.com/business-loan/financing-loan.md): Access quick business loans for working capital, expansion, equipment, or any legitimate business purpose.
+- [Small Business Loans Without Collateral](https://www.indifi.com/small-business-loans-india-without-collaterals.md): Fully collateral-free small business loans — no property, no machinery pledge required.
+- [Small Business Loans Without Guarantor](https://www.indifi.com/small-business-loans-india-without-guarantor.md): Business loans requiring no third-party guarantor — assessed on business cash flow and GST data alone.
+- [GST Business Loan](https://www.indifi.com/business-loan/gst-business-loan.md): Business loans assessed primarily on GST return data — ideal for businesses with strong GST-declared turnover.
+- [Invoice Discounting Companies India](https://www.indifi.com/invoice-discounting-companies-in-india.md): Indifi is among India's leading invoice discounting platforms — unlock cash from unpaid B2B invoices.
+- [Merchant Cash Advance Loan](https://www.indifi.com/merchant-cash-advance-loan.md): Quick cash advance for merchants based on card and POS transaction history.
+- [Short Term Business Loans](https://www.indifi.com/short-term-business-loans.md): Quick short-term business loans up to INR 50 lakhs for 6–12 month working capital needs.
+- [Loan Against Property](https://www.indifi.com/loan-against-property.md): Secured loans against commercial or residential property — higher amounts at lower rates than unsecured.
+- [Mudra Loan](https://www.indifi.com/business-loan/mudra-loan.md): Complete guide to Pradhan Mantri Mudra Yojana (PMMY) — Shishu, Kishor, Tarun tiers explained vs Indifi loans.
+- [Letter of Credit](https://www.indifi.com/business-loan/letter-of-credit.md): Explanation of Letter of Credit (LC) types, parties, and how trade finance works for Indian businesses.
+- [IndifiPay](https://www.indifi.com/indifipay.md): IndifiPay digital payment and financial services for small businesses — accept payments and access integrated credit.
+
+## INDUSTRY-SPECIFIC LOANS — Markdown mirrors available
+- [Travel Agency Financing Online](https://www.indifi.com/travel-agency-financing-online-india.md): Quick 100% online unsecured loans for travel agencies and tour operators in India.
+- [Travel Agency Financing](https://www.indifi.com/travel-agency-financing.md): Collateral-free loans for travel agents — advance ticket purchase, hotel deposits, and seasonal working capital.
+- [Hotel Business Loan](https://www.indifi.com/loan-for-hotel-business-in-india.md): Unsecured hotel business loans up to INR 50 lakhs with deep hospitality sector underwriting expertise.
+- [Hotel Business Loans India](https://www.indifi.com/business-loan-for-hotels-in-india.md): Quick collateral-free loans for hotels, guesthouses, and hospitality businesses across India.
+- [Restaurant Business Loan](https://www.indifi.com/bank-loan-for-restaurant-business-india.md): Restaurant loans up to INR 50 lakhs — covers setup, kitchen equipment, working capital, and Zomato/Swiggy promotions.
+- [Unsecured Restaurant Loans](https://www.indifi.com/unsecured-small-business-loans-for-restaurant.md): Collateral-free restaurant loans — no property required, assessed on bank statement and GST turnover.
+- [Retail Store Loan](https://www.indifi.com/business-loan-for-retail-store.md): Unsecured loans for retail stores — apparel, electronics, grocery, jewellery, and specialty retail.
+- [Unsecured Retail Shop Loan](https://www.indifi.com/unsecured-business-loan-for-retail-shop.md): Collateral-free business loans for retail shop owners — fast approval with no property pledge needed.
+- [E-Commerce Business Loan](https://www.indifi.com/e-commerce.md): Loans for Amazon, Flipkart, Meesho, and D2C e-commerce sellers — assessed using marketplace performance data.
+- [Amazon Seller Loans](https://www.indifi.com/e-commerce/amazon-seller-loan.md): Quick loans for Amazon India sellers to fund inventory, advertising, and peak season stocking.
+- [Flipkart Seller Loan](https://www.indifi.com/e-commerce/flipkart-seller-loan.md): Quick loans for Flipkart marketplace sellers — inventory financing and working capital.
+- [Healthcare Business Loan](https://www.indifi.com/business-loan/healthcare-business.md): Loans for clinics, hospitals, pharmacies, diagnostic centres, and dental practices across India.
+- [Logistics Business Loan](https://www.indifi.com/business-loan/logistics-business.md): Loans for road freight, last-mile delivery, courier, and warehouse logistics businesses.
+- [Construction Business Loan](https://www.indifi.com/business-loan/construction-business.md): Business loans for construction companies and contractors — raw material, labour, and equipment funding.
+- [Textiles Business Loan](https://www.indifi.com/business-loan/textiles-business.md): Quick business loans for textile manufacturers, wholesalers, traders, and garment exporters.
+- [Transportation Business Loan](https://www.indifi.com/business-loan/transportation-business.md): Fleet financing and working capital loans for truck operators, cab fleets, and transport businesses.
+- [Kirana Store Business Plan and Loan](https://www.indifi.com/business-loan/kirana-store-business-plan.md): Comprehensive guide for kirana store owners — business plan basics and loan options up to INR 50 lakhs.
+
+## CITY PAGES — Markdown mirrors available
+- [Business Loan Delhi NCR](https://www.indifi.com/business-loan/delhi-ncr.md): Instant collateral-free business loans in Delhi NCR — trading, retail, manufacturing, and hospitality sectors.
+- [Business Loan Mumbai](https://www.indifi.com/business-loan/mumbai.md): Quick unsecured business loans in Mumbai for finance, retail, hospitality, manufacturing, and media businesses.
+- [Business Loan Bangalore](https://www.indifi.com/business-loan/bangalore.md): Business loans for Bangalore's technology, startup, e-commerce, retail, and healthcare businesses.
+- [Business Loan Hyderabad](https://www.indifi.com/business-loan/hyderabad.md): Quick online business loans in Hyderabad for pharma, technology, retail, and food processing sectors.
+- [Business Loan Kolkata](https://www.indifi.com/business-loan/kolkata.md): Business loans in Kolkata for trading, jute, leather, retail, and hospitality businesses.
+- [Business Loan Gurgaon](https://www.indifi.com/business-loan/gurgaon.md): Business loans in Gurgaon for technology, logistics, retail, hospitality, and financial services.
+- [Business Loan Ahmedabad](https://www.indifi.com/business-loan/ahmedabad.md): Quick unsecured business loans in Ahmedabad for textiles, pharma, chemicals, and diamond industries.
+- [Business Loan Jaipur](https://www.indifi.com/business-loan/jaipur.md): Business loans in Jaipur for tourism, handicrafts, jewellery, textiles, and trading businesses.
+- [Business Loan Lucknow](https://www.indifi.com/business-loan/lucknow.md): Instant business loans in Lucknow for retail, trading, handicrafts, food processing, and healthcare.
+- [Business Loan Indore](https://www.indifi.com/business-loan/indore.md): Quick business loans in Indore for textiles, trading, retail, food processing, and manufacturing.
+- [Business Loan Faridabad](https://www.indifi.com/business-loan/faridabad.md): Business loans in Faridabad for manufacturing, trading, retail, and auto components businesses.
+- [Business Loan Ghaziabad](https://www.indifi.com/business-loan/ghaziabad.md): Quick business loans in Ghaziabad for manufacturing, retail, trading, and real estate sectors.
+- [Business Loan Noida](https://www.indifi.com/business-loan/noida.md): Business loans in Noida for technology, manufacturing, retail, and logistics businesses.
+
+## CASE STUDIES — Markdown mirrors available
+- [Business Success Stories Hub](https://www.indifi.com/case-studies.md): Real MSME success stories — how Indian small businesses grew with Indifi loans across logistics, travel, food, and retail.
+- [HGR Logistics Case Study](https://www.indifi.com/case-studies/hgr-logistics.md): How HGR Logistics overcame COVID-19 cash flow challenges and expanded fleet operations with Indifi's support.
+- [Pizza on My Plate Case Study](https://www.indifi.com/case-studies/pizza-on-my-plate.md): How Pizza on My Plate funded restaurant expansion and kitchen equipment upgrade through Indifi.
+- [Vega Air Travels Case Study](https://www.indifi.com/case-studies/vega-air-travels.md): How Vega Air Travels solved advance ticket purchase working capital gap with Indifi's travel agency loan.
+- [Gayatri Enterprises Case Study](https://www.indifi.com/case-studies/gayatri-enterprises.md): How Gayatri Enterprises leveraged Indifi loans to expand trading and distribution operations.
+- [Kobster Case Study](https://www.indifi.com/case-studies/kobster.md): How Kobster used Indifi invoice discounting to optimize e-commerce cash flow and grow marketplace rankings.
+- [Monocept Case Study](https://www.indifi.com/case-studies/monocept.md): How Monocept used invoice discounting to bridge project payment gaps and take on more clients.
+- [Thea Kitchen Case Study](https://www.indifi.com/case-studies/thea-kitchen.md): How Thea Kitchen scaled its cloud kitchen operations with an unsecured business loan from Indifi.
+- [Universal Sportsbiz Case Study](https://www.indifi.com/case-studies/universal-sportsbiz.md): How Universal Sportsbiz used invoice discounting to enhance cash flow and support seasonal stock needs.
+
+## TOOLS AND REFERENCE — Markdown mirrors available
+- [Credit Score Guide](https://www.indifi.com/business-loan/credit-score.md): How CIBIL score affects business loan eligibility — score ranges, what Indifi requires, and how to improve.
+- [Know Your PAN](https://www.indifi.com/business-loan/know-your-pan.md): PAN card requirements for business loans — entity vs individual PAN, how to verify, and common issues.
+
+## FAQ AND SUPPORT — Markdown mirrors available
+- [Business Loan FAQs](https://www.indifi.com/faq.md): Answers to common questions on business loan eligibility, documents, approval time, fees, and repayment.
+- [eSign FAQ](https://www.indifi.com/faq/esign.md): How Aadhaar-based eSign works for digital loan agreement signing — legal validity and process explained.
+- [eNACH FAQ](https://www.indifi.com/faq/enach.md): Step-by-step guide to authorizing eNACH mandate for automated EMI deductions via net banking.
+- [Contact Indifi](https://www.indifi.com/contact.md): Contact details for Indifi customer support, grievance redressal, media, and partnership enquiries.
+
+## PARTNERS — Markdown mirrors available
+- [Partner with Indifi](https://www.indifi.com/partner.md): Co-lending, DSA, industry, and technology partnership opportunities with Indifi's MSME lending platform.
+- [Industry Partners](https://www.indifi.com/industry-partners.md): Indifi's industry partnerships with e-commerce platforms, hospitality aggregators, and sector associations.
+- [Lending Partners](https://www.indifi.com/lending-partners.md): Indifi's network of 15+ RBI-regulated NBFCs and banks that fund MSME loans on the platform.
+- [Referral Program](https://www.indifi.com/referral.md): Earn rewards by referring MSMEs to Indifi — program for individuals, CAs, DSAs, and consultants.
+
+## COMPANY AND COMPLIANCE — Markdown mirrors available
+- [About Indifi](https://www.indifi.com/about-us.md): Indifi Technologies company overview — mission, founding story, leadership, NBFC registration, and lending partners.
+- [Careers at Indifi](https://www.indifi.com/careers.md): Career opportunities at Indifi — engineering, credit, operations, sales, and product roles.
+- [Press and Media](https://www.indifi.com/press.md): Indifi press kit, media contacts, and company overview for journalists and analysts.
+- [Corporate Governance](https://www.indifi.com/corporate-governance.md): Indifi's corporate governance framework — board, RBI compliance, fair practices code, and grievance policies.
+- [Regulatory Disclosures](https://www.indifi.com/regulatory-disclosures.md): RBI-mandated disclosures for Indifi Capital Pvt. Ltd. (NBFC Cert. No. B-14.03389), fair practices, and DLG updates.
+- [Sustainability Reports](https://www.indifi.com/sustainability-reports.md): Indifi's ESG impact report — MSME financial inclusion, women entrepreneurship, and digital lending sustainability.
+- [Privacy Policy](https://www.indifi.com/privacy-policy.md): How Indifi collects, uses, stores, and shares borrower data — rights under Indian data protection law.
+- [Fraud Disclaimer](https://www.indifi.com/fraud-disclaimer.md): Warning against fraud impersonating Indifi — Indifi never charges advance fees before loan disbursal.
+- [Sitemap](https://www.indifi.com/sitemap.md): Complete directory of all pages on indifi.com for navigation and discovery.
+
+## RESOURCES AND EDUCATIONAL — Markdown mirrors available
+- [What is MSME](https://www.indifi.com/msme-loans/what-is-msme.md): Complete MSME definition, classification thresholds, Udyam registration, government schemes, and loan benefits.
+- [Business Ideas](https://www.indifi.com/business-ideas.md): Top small business ideas in India by investment level — from zero-investment freelancing to INR 20 lakh+ ventures.
+- [Business Ideas for Women](https://www.indifi.com/business-ideas-women.md): Business ideas and funding options for women entrepreneurs in India — home-based, online, and service sectors.
+
+## EXISTING PAGES WITHOUT MARKDOWN MIRRORS (HTML only — retain from original llms.txt)
+- [Trading Business Ideas](https://www.indifi.com/blog/trading-business-ideas/): Explore profitable trading business ideas with minimal investment.
+- [Used Car Dealer Loans](https://www.indifi.com/business-loans-for-used-car-dealers): Financing options for used car dealerships in India.
+- [Myntra Seller Loan](https://www.indifi.com/e-commerce/myntra-seller-loan): Myntra seller loan for e-commerce business growth.
+- [Gold Loan](https://www.indifi.com/goldloan): Get quick gold loans with minimal documentation and low rates.
